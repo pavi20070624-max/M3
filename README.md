@@ -60,6 +60,8 @@ void calculateEMI(double principal, double rate, int time) {
 
 
 ## OUTPUT
+<img width="387" height="256" alt="image" src="https://github.com/user-attachments/assets/eb5a5f19-034a-4557-8be0-579e47dba8b8" />
+
 
 
 
@@ -117,6 +119,8 @@ int main() {
 ```
 
 ## OUTPUT
+<img width="555" height="157" alt="image" src="https://github.com/user-attachments/assets/6fdfe808-2cfb-481c-b6a0-d5516b2881b1" />
+
 
 
 
@@ -170,6 +174,8 @@ int main() {
 ```
 
 ## OUTPUT
+<img width="402" height="201" alt="image" src="https://github.com/user-attachments/assets/8bdcd4ff-48db-4ebf-878e-2e73eafe9d86" />
+
 
 
 
@@ -231,6 +237,8 @@ int main() {
 
 
 ## OUTPUT
+<img width="375" height="210" alt="image" src="https://github.com/user-attachments/assets/977ce532-0ccb-4892-b7d0-45c7778180bc" />
+
 
 
 
@@ -304,6 +312,8 @@ int main() {
 ```
 
 ## Output:
+<img width="349" height="248" alt="image" src="https://github.com/user-attachments/assets/068fd04e-c0a7-4777-b88e-45e661b3d295" />
+
  
 
 
